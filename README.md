@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Professional Profile Photo -->
-<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/c62b93ad-8b0b-41c1-ad29-c9bdbef1bbf7.png" alt="Ravi Teja - AI Developer & Student" width="200" height="200" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.3);" />
 
 # 👋 Hi, I'm **Ravi Teja**
 
